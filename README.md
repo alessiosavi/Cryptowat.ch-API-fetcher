@@ -1,0 +1,1 @@
+# Cryptowat.ch-API-fetcher
